@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name" translatable="false">WeatherApp</string>
+    <string name="dzisiaj">Today</string>
+    <string name="wprowad_adres">Add addres</string>
+    <string name="no_place_selected">No Place selected</string>
+    <string name="api_key" translatable="false">AIzaSyArOBlqTPTgywA7DYo5nprT57IYVc8XEgo</string>
+    <string name="title_activity_main2" translatable="false">Main2Activity</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="saved_localizations">Saved Locations</string>
+    <string name="kolejne_dni">Next Days</string>
+    <string name="noGPS">no access to GPS</string>
+    <string name="addToFavourite">Add location to favourite?</string>
+    <string name="save">Zapisz</string>
+    <string name="error" translatable="false">error</string>
+    <string name="errorRealm" translatable="false">Error in realm</string>
+    <string name="invalidActivity" translatable="false">Invalid Activity</string>
+
+</resources>
